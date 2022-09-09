@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         val inalt = et_inalt.text.toString().toDouble()
 
         indice = (masa / (inalt * inalt)).toSting()
+            //vineive
         }
     }
 }
